@@ -1,0 +1,23 @@
+.newsletter-wrapper {
+  padding-top: 40px !important;
+  padding-bottom: 40px !important;
+  background-color: #808080;
+  text-align: center !important;
+}
+
+.newsletter-wrapper .newsletter-subscribe {
+  max-width: 372px;
+  margin: 0 auto;
+}
+
+.newsletter-heading {
+  color: white;
+  font-size: 25px;
+  letter-spacing: 7px;
+}
+
+.newsletter-content {
+  color: wheat;
+  font-size: 14px;
+  letter-spacing: 1px;
+}
